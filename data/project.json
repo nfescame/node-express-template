@@ -76,11 +76,11 @@
       "description": "Jogo da velha temático(matrix), Usando: Material ui core, React js."
     },
     {
-      "title": "Batle Heroes",
+      "title": "Battle Heroes",
       "subTitle": "Project # Cards Super Trunfo ",
       "image": "https://i.ytimg.com/vi/Gord868iEks/hqdefault.jpg",
       "path": "https://battle-heroes.netlify.app/list",
-      "pathRepo": "https://github.com/nfescame/batle-heroes",
+      "pathRepo": "https://github.com/nfescame/battle-heroes",
       "description": "Jogo inspirado em Cards Game estilo super trunfo onde se pode escolher dois personagens e ver quem vence. Usando: React js, Material UI, Axios, React Router dom..."
     }
   ],
