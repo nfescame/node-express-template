@@ -1,8 +1,6 @@
 {
   "cardsDB": [
     {
-      "rows": 2,
-      "cols": 5,
       "title": "NG Heroes",
       "subTitle": "Project # Crud-Pair programming-Guilherme Rosa",
       "image": "https://portfolionfescame.netlify.app/imagens/heroes.jpg",
@@ -11,8 +9,6 @@
       "description": "Este projeto é um sistema CRUD de recriação. Existe uma API com mais de 500 nomes e dados de heróis e com estes dados o usuário pode escolher seus 5 personagens favoritos e comparar seus status."
     },
     {
-      "rows": 2,
-      "cols": 2,
       "title": "Lig4 Game",
       "subTitle": "Project # Game",
       "image": "https://github.com/nfescame/Lig4-Game/blob/master/img/lig4Logo.png?raw=true",
@@ -22,8 +18,6 @@
     },
 
     {
-      "rows": 2,
-      "cols": 2,
       "title": "So fit ",
       "subTitle": "Project # API-Pair programming-Manoel Pereira e Raul Guimarães",
       "image": "https://portfolionfescame.netlify.app/imagens/fitness.jpeg",
@@ -32,8 +26,6 @@
       "description": "Este aplicativo da web tem como objetivo ajudar as pessoas a transformar sua vida de fitness em uma atividade mais agradável / emocionante."
     },
     {
-      "rows": 2,
-      "cols": 5,
       "title": "Movies Search",
       "subTitle": "Project # OMDb api",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3pRoAGLfGTMMV45kwM3XUultIilY28nCaG2Bbeve6db6HdTb09zWmdVp5g0IglcInl0g&usqp=CAU",
@@ -42,8 +34,6 @@
       "description": "Aplicação consumindo uma api (OMDB) de filmes, series e games,faz busca por nome, exibe detalhes do item selecionado, sistema de paginação... Usando Bootstrap com React JS,React Router Dom, Axios, Hooks:UseState, UsesEffect."
     },
     {
-      "rows": 2,
-      "cols": 2,
       "title": "Escame Imóveis",
       "subTitle": "Project # Site demonstração",
       "image": "https://escame-imoveis.netlify.app/static/media/img2.a18708fb.jpg",
@@ -52,8 +42,6 @@
       "description": "Site imobiliario para demonstração, desenvolvido em React js e Bootstrap. Inclui um formulario de envio de Email funcional utilizando FormSubmit.co "
     },
     {
-      "rows": 2,
-      "cols": 2,
       "title": "Simple Crud",
       "subTitle": "Project # CRUD ",
       "image": "https://www.dorusomcutean.com/wp-content/uploads/2020/03/crud.jpg",
@@ -62,10 +50,8 @@
       "description": "Esta aplicação exibe uma lista com nomes e emails em uma tabela dinamica, pode-se editar deletar e adicionar registros. Usando: React JS com Bootstrap, React Router Dom. "
     },
     {
-      "rows": 2,
-      "cols": 5,
       "title": "Covid Statistics",
-      "subTitle": "Project #6 RapiApi",
+      "subTitle": "Project # RapiApi",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_RGTxysWoC5Ty7RrW8kRLqFjkNvDkJxa_79_yjQA6sabPyqlknOOVzfNP526DaM4oVw&usqp=CAU",
       "path": "https://covid-statistics-all.netlify.app/",
       "pathRepo": "https://github.com/nfescame/Covid-api",
@@ -73,14 +59,20 @@
     },
 
     {
-      "rows": 2,
-      "cols": 5,
       "title": "Currency Exchange",
-      "subTitle": "Project #7 RapidApi Exchangerate-api",
+      "subTitle": "Project # RapidApi Exchangerate-api",
       "image": "https://www.financemagnates.com/wp-content/uploads/2020/01/FX.jpg",
       "path": "https://currency-exchange-escame.netlify.app/",
       "pathRepo": "https://github.com/nfescame/Conversor-de-moeda",
       "description": "Aplicação consumindo uma api (RapidApi,Exchangerate-api) exibindo códigos de conversão de moeda onde se seleciona duas moedas para convesão. Usando: React Js com Bootstrap, React Router Dom, Axios e react-currency-input-field. "
+    },
+    {
+      "title": "Matrix tic-tac-toe",
+      "subTitle": "Project # Jogo da velha",
+      "image": "https://downloadsn.webnode.com.br/_files/system_preview_detail_200000008-6224d626fe-public/matrix.jpg",
+      "path": "https://tic-tac-toe-matrix.netlify.app",
+      "pathRepo": "https://github.com/nfescame/matrix-tic-tac-toe",
+      "description": "Jogo da velha temático(matrix), Usando: Material ui core, React js."
     }
   ],
 
