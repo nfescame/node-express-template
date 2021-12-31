@@ -8,6 +8,7 @@
       "pathRepo": "https://github.com/nfescame/NgHeroes",
       "description": "Este projeto é um sistema CRUD de recriação. Existe uma API com mais de 500 nomes e dados de heróis e com estes dados o usuário pode escolher seus 5 personagens favoritos e comparar seus status."
     },
+
     {
       "title": "Lig4 Game",
       "subTitle": "Project # Game",
@@ -73,6 +74,14 @@
       "path": "https://tic-tac-toe-matrix.netlify.app",
       "pathRepo": "https://github.com/nfescame/matrix-tic-tac-toe",
       "description": "Jogo da velha temático(matrix), Usando: Material ui core, React js."
+    },
+    {
+      "title": "Batle Heroes",
+      "subTitle": "Project # Cards Super Trunfo ",
+      "image": "https://i.ytimg.com/vi/Gord868iEks/hqdefault.jpg",
+      "path": "https://battle-heroes.netlify.app/list",
+      "pathRepo": "https://github.com/nfescame/batle-heroes",
+      "description": "Jogo inspirado em Cards Game estilo super trunfo onde se pode escolher dois personagens e ver quem vence. Usando: React js, Material UI, Axios, React Router dom..."
     }
   ],
 
