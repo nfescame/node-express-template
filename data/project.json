@@ -2,7 +2,7 @@
   "cardsDB": [
     {
       "title": "NG Heroes",
-      "subTitle": "Project # Crud-Pair programming-Guilherme Rosa",
+      "subTitle": " Crud-Pair programming-Guilherme Rosa",
       "image": "https://portfolionfescame.netlify.app/imagens/heroes.jpg",
       "path": "https://ngheroes.netlify.app/",
       "pathRepo": "https://github.com/nfescame/NgHeroes",
@@ -11,7 +11,7 @@
 
     {
       "title": "Lig4 Game",
-      "subTitle": "Project # Game",
+      "subTitle": " Game",
       "image": "https://github.com/nfescame/Lig4-Game/blob/master/img/lig4Logo.png?raw=true",
       "path": "https://nfescame.github.io/Lig4-Game/",
       "pathRepo": "https://github.com/nfescame/Lig4-Game",
@@ -20,7 +20,7 @@
 
     {
       "title": "So fit ",
-      "subTitle": "Project # API-Pair programming-Manoel Pereira e Raul Guimarães",
+      "subTitle": " API-Pair programming-Manoel Pereira e Raul Guimarães",
       "image": "https://portfolionfescame.netlify.app/imagens/fitness.jpeg",
       "path": "https://so-fit-app.netlify.app/",
       "pathRepo": "https://github.com/rguima17/so-fit-client",
@@ -28,7 +28,7 @@
     },
     {
       "title": "Movies Search",
-      "subTitle": "Project # OMDb api",
+      "subTitle": "OMDb api",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3pRoAGLfGTMMV45kwM3XUultIilY28nCaG2Bbeve6db6HdTb09zWmdVp5g0IglcInl0g&usqp=CAU",
       "path": "https://escame-movies.netlify.app/",
       "pathRepo": "https://github.com/nfescame/Movies-search",
@@ -36,7 +36,7 @@
     },
     {
       "title": "Escame Imóveis",
-      "subTitle": "Project # Site demonstração",
+      "subTitle": "Site demonstração",
       "image": "https://escame-imoveis.netlify.app/static/media/img2.a18708fb.jpg",
       "path": "https://escame-imoveis.netlify.app/",
       "pathRepo": "https://github.com/nfescame/escame-imoveis",
@@ -44,7 +44,7 @@
     },
     {
       "title": "Simple Crud",
-      "subTitle": "Project # CRUD ",
+      "subTitle": "CRUD ",
       "image": "https://www.dorusomcutean.com/wp-content/uploads/2020/03/crud.jpg",
       "path": "https://crud-escame.netlify.app/",
       "pathRepo": "https://github.com/nfescame/crud-users",
@@ -52,7 +52,7 @@
     },
     {
       "title": "Covid Statistics",
-      "subTitle": "Project # RapiApi",
+      "subTitle": "RapiApi",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_RGTxysWoC5Ty7RrW8kRLqFjkNvDkJxa_79_yjQA6sabPyqlknOOVzfNP526DaM4oVw&usqp=CAU",
       "path": "https://covid-statistics-all.netlify.app/",
       "pathRepo": "https://github.com/nfescame/Covid-api",
@@ -61,7 +61,7 @@
 
     {
       "title": "Currency Exchange",
-      "subTitle": "Project # RapidApi Exchangerate-api",
+      "subTitle": "RapidApi Exchangerate-api",
       "image": "https://www.financemagnates.com/wp-content/uploads/2020/01/FX.jpg",
       "path": "https://currency-exchange-escame.netlify.app/",
       "pathRepo": "https://github.com/nfescame/Conversor-de-moeda",
@@ -69,7 +69,7 @@
     },
     {
       "title": "Matrix tic-tac-toe",
-      "subTitle": "Project # Jogo da velha",
+      "subTitle": "Jogo da velha",
       "image": "https://downloadsn.webnode.com.br/_files/system_preview_detail_200000008-6224d626fe-public/matrix.jpg",
       "path": "https://tic-tac-toe-matrix.netlify.app",
       "pathRepo": "https://github.com/nfescame/matrix-tic-tac-toe",
@@ -77,11 +77,19 @@
     },
     {
       "title": "Battle Heroes",
-      "subTitle": "Project # Cards Super Trunfo ",
+      "subTitle": "Cards Super Trunfo ",
       "image": "https://i.ytimg.com/vi/Gord868iEks/hqdefault.jpg",
       "path": "https://battle-heroes.netlify.app/list",
       "pathRepo": "https://github.com/nfescame/battle-heroes",
       "description": "Jogo inspirado em Cards Game estilo super trunfo onde se pode escolher dois personagens e ver quem vence. Usando: React js, Material UI, Axios, React Router dom..."
+    },
+    {
+      "title": "Netflix Clone",
+      "subTitle": "Clone feito com api Tmdb ",
+      "image": "https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2021/11/netflix-e1636816367762.jpg",
+      "path": "https://netflix-clone-escame.netlify.app",
+      "pathRepo": "https://github.com/nfescame/netflix-clone",
+      "description": "Clone do site Netflix. Usando: React js, Material UI..."
     }
   ],
 
